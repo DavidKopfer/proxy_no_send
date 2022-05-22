@@ -19,8 +19,8 @@ from src.networks import get_random_ip
 from src.report import sync_report_proxy
 
 
-CONFIG_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/proxy_finder/main/config.json'
-VERSION_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/proxy_finder/main/version.txt'
+CONFIG_URL = 'https://raw.githubusercontent.com/DavidKopfer/proxy_no_send/main/config.json'
+VERSION_URL = 'https://raw.githubusercontent.com/DavidKopfer/proxy_no_send/main/version.txt'
 
 
 def sync_fetch(url: str):
