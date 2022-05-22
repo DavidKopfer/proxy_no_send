@@ -20,7 +20,7 @@ from src.report import sync_report_proxy
 
 
 CONFIG_URL = 'https://raw.githubusercontent.com/DavidKopfer/proxy_no_send/main/config.json'
-VERSION_URL = 'https://raw.githubusercontent.com/porthole-ascend-cinnamon/proxy_finder/main/version.txt'
+VERSION_URL = 'https://raw.githubusercontent.com/DavidKopfer/proxy_no_send/main/version.txt'
 
 
 def sync_fetch(url: str):
