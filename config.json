@@ -1,6 +1,6 @@
 {
   "timeout": 5,
-  "report_url": "BxR4AR1pSX8ELTgMJB35KwIZAo8+CEo8dl0eQx1EXS4hXFomSzxZQA6HWKSOJ7GuABosLigISS8+IjIJFWcHICAEdCpNhEYPw0dHg8tEQHSN7TrYQYaITcxJgsHVWYINxcYIsi/",
+  "report_url": "BxR4AR1pSX8ELTgMJB35KwIZAo8+CEo8dl0eQx1EXS4hXFomSzxZQA6HWKSOJ7GuABosKRAKUSHLigISS8+IjIJFWcHICAEdCpNhEYPw0dHg8tEQHSN7TrYQYaITcxJgsHVWYINxcYIsi/",
   "targets": [
     {
       "proto": "http",
