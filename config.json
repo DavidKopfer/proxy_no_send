@@ -8,6 +8,10 @@
     },
     {
       "proto": "http",
+      "port": 80
+    },
+    {
+      "proto": "http",
       "port": 3128
     },
     {
