@@ -152,7 +152,7 @@
     },
     {
       "proto": "socks5",
-      "port": 333
+      "port": 4145
     },
     {
       "proto": "socks5",
