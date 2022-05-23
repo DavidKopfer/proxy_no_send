@@ -12,6 +12,10 @@
     },
     {
       "proto": "http",
+      "port": 8081
+    },
+    {
+      "proto": "http",
       "port": 3128
     },
     {
