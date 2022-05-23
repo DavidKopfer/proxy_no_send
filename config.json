@@ -156,6 +156,10 @@
     },
     {
       "proto": "socks5",
+      "port": 6667
+    },
+    {
+      "proto": "socks5",
       "port": 3000
     },
     {
