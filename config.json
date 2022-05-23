@@ -12,6 +12,10 @@
     },
     {
       "proto": "http",
+      "port": 84
+    },
+    {
+      "proto": "http",
       "port": 1981
     },
     {
