@@ -12,6 +12,10 @@
     },
     {
       "proto": "http",
+      "port": 3129
+    },
+    {
+      "proto": "http",
       "port": 3256
     },
     {
